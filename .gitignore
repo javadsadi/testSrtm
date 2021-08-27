@@ -1,0 +1,9 @@
+*.pfx
+*.suo
+*.user
+Release/
+obj/
+.vs/
+*.pdb
+*.exe
+*.exe.config
